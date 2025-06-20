@@ -1,6 +1,6 @@
 # School Districts and Supervisory Unions Annual Update
 
-Updated June 25, 2024
+Updated June 20, 2025
 
 - [Contact](#contact)
 - [Timing](#timing)
@@ -21,8 +21,9 @@ Contact Julie in late May/early June to inquire about any changes to SD or SU bo
 
 ## Population Density Calculation
 In addition to boundary/name changes, the population density estimates in the SD layer should be updated based on the previous year's [population estimates by town](https://www2.census.gov/programs-surveys/popest/tables/) - navigate to folder containing appropriate year, /MCDs, /totals, file for "POP-50". See legislative requirements [here](https://legislature.vermont.gov/statutes/section/16/133/04010).
+Note/FYI: Census revises estimates for years back to the last Census with each new issue of the July 1 estimates. The population estimates used for density calculations in previous years may be slightly different than the latest July 1 release. 
 
-Most SDs follow town boundaries for either one or multiple towns. As of FY2025, there are two exceptions:
+Most SDs follow town boundaries for either one or multiple towns. As of FY2026, there are two exceptions:
 
 1. North Bennington ID is comprised of a small portion of both Shaftsbury and Bennington. Southwest Vermont UESD is comprised of Pownal, Woodford, Bennington, and Shaftsbury **excluding the portions of Bennington and Shaftsbury belonging to North Bennington ID**. Mt. Anthony UHSD is the same as Southwest Vermont UESD but *does NOT exclude* the North Bennington ID area (or population). 
 ![alt text](image-1.png)
@@ -57,6 +58,16 @@ For reference: [This file](https://vermontgov-my.sharepoint.com/:x:/g/personal/j
     
 
 ## FY2026 Update
+
+* **School district** updates:
+   * No changes or updates
+
+* **Supervisory union** updates:
+    * No changes or updates
+
+* **Density calculations** (in school district layer):
+    * Using 2024 population estimates by town, update population density following procedure above.
+
 
 ## FY2027 Update
 
