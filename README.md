@@ -63,7 +63,25 @@ For reference: [This file](https://vermontgov-my.sharepoint.com/:x:/g/personal/j
    * No changes or updates
 
 * **Supervisory union** updates:
-    * No changes or updates
+    * Per correspondence with Kristi Tate (Vermont Superintendents Association), and confirmed by AOE, entries for the following SUs were updated from "SU" to "SD" in the 'SUSD' field:
+        * Addison Central (SD03)
+        * Addison Northwest (SD02)
+        * Barre (SD61)
+        * Champlain Valley (SD14)
+        * Essex Westford (SD65)
+        * Harwood (SD42)
+        * Kingdom East (SD67)
+        * Lincoln (SD70)
+        * Maple Run (SD23)
+        * Mill River (SD33)
+        * Missisquoi Valley (SD21)
+        * Montpelier Roxbury (SD69)
+        * Mount Abraham (SD01)
+        * Mount Mansfield (SD12)
+        * Orange Southwest (SD28)
+        * Rivendell Interstate (SD64)
+        * Slate Valley (SD04)
+        * Washington Central (SD32)
 
 * **Density calculations** (in school district layer):
     * Using 2024 population estimates by town, update population density following procedure above.
